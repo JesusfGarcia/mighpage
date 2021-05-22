@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mighpage/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mighpage/static/js/main.ea9da56a.chunk.js",
+    "main.js.map": "/mighpage/static/js/main.ea9da56a.chunk.js.map",
+    "runtime-main.js": "/mighpage/static/js/runtime-main.8b5fcb6b.js",
+    "runtime-main.js.map": "/mighpage/static/js/runtime-main.8b5fcb6b.js.map",
+    "static/js/2.059e6a2c.chunk.js": "/mighpage/static/js/2.059e6a2c.chunk.js",
+    "static/js/2.059e6a2c.chunk.js.map": "/mighpage/static/js/2.059e6a2c.chunk.js.map",
+    "static/js/3.c39a78f7.chunk.js": "/mighpage/static/js/3.c39a78f7.chunk.js",
+    "static/js/3.c39a78f7.chunk.js.map": "/mighpage/static/js/3.c39a78f7.chunk.js.map",
+    "index.html": "/mighpage/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mighpage/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.059e6a2c.chunk.js.LICENSE.txt": "/mighpage/static/js/2.059e6a2c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mighpage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b5fcb6b.js",
+    "static/js/2.059e6a2c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ea9da56a.chunk.js"
+  ]
+}
